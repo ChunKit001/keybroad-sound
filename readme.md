@@ -17,9 +17,9 @@ python main.py
 
 ## 3.exit the program
 
-Use the keyboard type "qaz123" anywhere.
+Use the keyboard type "qaz123".
 
 ## build the executed package on another window computer (no need for python)
 
-run build-package.bat
+run build-package.bat  
 You may perform dist/main.exe directly.
