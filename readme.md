@@ -5,11 +5,9 @@ This project utilizes FL studio sound and the Tickey project.
 Only support windows 10 now.
 
 ## 0.Developmental environment
-
 python 3.10.4  
-pynput 1.7.6  
-pyglet 1.5.24
-pyinstaller 5.1  
+
+pip install - r requirements.txt
 
 ## 2.Run the Program
 
